@@ -71,40 +71,40 @@ Circuitos Electricos
 ----
 4. Exprese cada uno de los números siguientes en notación científica:
 ----
-**a)0.0002:** Recorriendo **4 unidades** hacia la derecha = 2 * 10^-4
+**a) 0.0002:** Recorriendo **4 unidades** hacia la derecha = 2 * 10^-4
 
-**b)0.6:** Recorriendo **1 unidad** hacia la derecha = 6 * 10^-1
+**b) 0.6:** Recorriendo **1 unidad** hacia la derecha = 6 * 10^-1
 
-**c)7.8 * 10^-2:** Recorriendo **2 unidades** hacia la izquierda = 0.078 
+**c) 7.8 * 10^-2:** Recorriendo **2 unidades** hacia la izquierda = 0.078 
 
 ----
 6. Exprese cada numero de los siguientes como un numero decimal regular:
 ----
-**a)2 * 10^5:** Recorriendo **5 unidades** hacia la derecha= 200000
+**a) 2 * 10^5:** Recorriendo **5 unidades** hacia la derecha= 200000
 
-**b)5.4 * 10^(-9):** Recorriendo **9 unidades** hacia la izquierda= 0.0000000054
+**b) 5.4 * 10^(-9):** Recorriendo **9 unidades** hacia la izquierda= 0.0000000054
 
-**c)1.0 * 10^1:** Recorriendo **1 unidad** hacia la derecha= 10
+**c) 1.0 * 10^1:** Recorriendo **1 unidad** hacia la derecha= 10
  
 ----
 8. Exprese cada numero de los siguientes como un numero decimal regular:
 ----
-**a)4.5 * 10^(-6):** Recorriendo **6 unidades** hacia la izquierda= 0.0000045
+**a) 4.5 * 10^(-6):** Recorriendo **6 unidades** hacia la izquierda= 0.0000045
 
-**b)8 * 10^(-9):** Recorriendo **9 unidades** hacia la izquierda= 0.000000008
+**b) 8 * 10^(-9):** Recorriendo **9 unidades** hacia la izquierda= 0.000000008
 
-**c)4.0 * 10^(-12):** Recorriendo **12 unidades** hacia la izquierda= 0.000000000004
+**c) 4.0 * 10^(-12):** Recorriendo **12 unidades** hacia la izquierda= 0.000000000004
 
 ----
-10.Efectúe las siguientes sustracciones:
+10. Efectue las siguientes sustracciones: 
 ----
-**a)(3.2*10^12) - (1.1*10^12):** Factorizando se obtiene (3.2 - 1.1)*(10^12) = 2.1 * 10^12
+**a) (3.2*10^12) - (1.1*10^12):** Factorizando se obtiene (3.2 - 1.1)*(10^12) = 2.1 * 10^12
 
-**b)(2.6*10^8) - (1.3*10^7):** Se debe obtener el mismo exponente en la base 10, entonces: (1.3*10^7) * (10^1)= 0.13*10^8
+**b) (2.6*10^8) - (1.3*10^7):** Se debe obtener el mismo exponente en la base 10, entonces: (1.3*10^7) * (10^1)= 0.13*10^8
 
 Efectuando la factorización se obtiene (2.6 - 0.13)*(10^8)= 2.47*10^8
 
-**c)(1.5*10^(-12)) - (8*10^(-13)):** Se debe obtener el mismo exponente en la base 10, entonces: (1.5*10^(-12)) * (10^(-1))= 15*10^(-13)
+**c) (1.5*10^(-12)) - (8*10^(-13)):** Se debe obtener el mismo exponente en la base 10, entonces: (1.5*10^(-12)) * (10^(-1))= 15*10^(-13)
 
 Efectuando la factorización se obtiene (15-8) * (10^(-13))= 7*10^(-13)
 
