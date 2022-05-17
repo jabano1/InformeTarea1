@@ -243,6 +243,11 @@ Aplicando la tabla de conversion para cada uno se obtiene.
 ----
 2.¿Cual es la carga en coulombs del núcleo del átomo de cloro?
 ----
+Sacando el numero de electrones del cloro: **17 / 6.022*10^ 23**, da como resultado **2.822*10^(-23)**
+
+Utilizando la formula de la carga: **Q= 2.822*10(-23) / 6.25*10^18** 
+
+La respuesta es: **4.515*10^(-42) C**
 
 ----
 4. ¿Cuantos electrones se requieren para producir 80µC de carga?
@@ -329,8 +334,10 @@ El generador eléctrico se basa especialmente en la conversión de energía mec�
 ----
 20. Cierta fuente de corriente proporciona 100mA a 1kΩ de carga. Si la resistencia disminuye a 500Ω. ¿Cuál es la corriente de la carga?
 ----
+Aplicando una regla de tres, se concluye que: ** (500Ω * 100mA)/1000Ω**
+
+La respuesta es: ** 50mA**
 
 
-5
 *4. Video
 https://youtu.be/hPL8NqEF094
